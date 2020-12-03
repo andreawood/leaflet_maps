@@ -1,0 +1,39 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", "Arial", sans-serif;
+  padding-top: 3rem;
+  background: #E2E0FF;
+  color: #000;
+}
+
+h1 {
+  font-family: "Glegoo", "Palatino", "Times New Roman", serif;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  padding-bottom: .6rem;
+}
+
+#ad_map {
+  margin: auto;
+  height: 350px;
+  width: 500px;
+  border-style: solid;
+  border-color: #000;
+}
+
+.caption {
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  padding-top: 1rem;
+}

@@ -1,0 +1,39 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", "Arial", sans-serif;
+  padding-top: 3rem;
+  background: #F2D9B1;
+  color: #022873;
+}
+
+h1 {
+  font-family: "Glegoo", "Palatino", "Times New Roman", serif;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  padding-bottom: .6rem;
+}
+
+#fl_map {
+  margin: auto;
+  height: 350px;
+  width: 500px;
+  border-style: solid;
+  border-color: #022873;
+}
+
+p {
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  padding-top: 1rem;
+}
